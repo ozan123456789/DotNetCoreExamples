@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WFj/6u2jTN8f617Rrki0KolCM8M9cudI0U7WT0/XHfvYpwy88qRwwnwDCKaXUHP+fChOEdQx6s2eKE6VDVDQYQ==",
+  "success": true,
+  "projectFilePath": "W:\\dotnet_example\\DotNetCoreExampleCode\\ReadDataFromWebsite\\ReadDataFromWebsite\\ReadDataFromWebsite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozan4\\.nuget\\packages\\htmlagilitypack\\1.11.49\\htmlagilitypack.1.11.49.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.csproj.AssemblyReference.cache
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.GeneratedMSBuildEditorConfig.editorconfig
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.AssemblyInfoInputs.cache
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.AssemblyInfo.cs
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.csproj.CoreCompileInputs.cache
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net6.0\ReadDataFromWebsite.exe
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net6.0\ReadDataFromWebsite.deps.json
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net6.0\ReadDataFromWebsite.runtimeconfig.json
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net6.0\ReadDataFromWebsite.dll
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net6.0\ReadDataFromWebsite.pdb
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net6.0\HtmlAgilityPack.dll
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.csproj.CopyComplete
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.dll
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\refint\ReadDataFromWebsite.dll
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.pdb
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ReadDataFromWebsite.genruntimeconfig.cache
+W:\dotnet_example\DotNetCoreExampleCode\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net6.0\ref\ReadDataFromWebsite.dll
